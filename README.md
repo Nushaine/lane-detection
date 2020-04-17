@@ -7,3 +7,5 @@ Here's what you should have installed on your local system:
   - Python 3.7 
   - Numpy 1.16 
   - OpenCV 4
+
+## Building the Algorithm
